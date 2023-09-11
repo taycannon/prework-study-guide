@@ -7,7 +7,7 @@ This is my prework study guide webpage that I developed for the first time. This
 N/A
 
 ## Usage
-Each section of my Prework Study Guide contains notes about HTML, CSS, JavaScript, and Git. Each section gives a breif description about these topics and the order of which it needs to be in.
+Each section of my Prework Study Guide contains notes about HTML, CSS, JavaScript, and Git. Each section gives a brief description about these topics and the order of which it needs to be in.
 
 ## Credits
 N/A
